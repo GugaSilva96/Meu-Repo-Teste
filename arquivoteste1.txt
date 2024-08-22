@@ -1,0 +1,3 @@
+"criando arquivo dentro de repositóprio local.
+criando repositório remoto.
+fazendo commits para repo remoto"
